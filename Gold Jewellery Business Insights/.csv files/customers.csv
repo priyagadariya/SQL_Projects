@@ -1,0 +1,101 @@
+customer_id,name,city,contact,date_joined
+1,Ulrika Oswell,Chavárion,8711570720,03/05/2024
+2,Trude Emerson,Xintun,9722151872,14/01/2025
+3,Ame MacLucais,Mae Hi,2714235595,24/08/2023
+4,Doralynn Addams,Sankt Andrä-Höch,5157146438,15/09/2023
+5,Marla Povlsen,Kawanoechō,6921558839,24/01/2023
+6,Dorri Sawbridge,Lingkou,8832560050,01/05/2024
+7,Baillie Bulfit,Sosnówka,6575268974,01/01/2023
+8,Kalil Burge,Shisui,3268119626,06/01/2024
+9,Jeddy Hurche,Hengli,4157116453,28/04/2025
+10,Marty Leborgne,Zaoshi,2907366443,10/06/2023
+11,Masha Doidge,Olkusz,3717132664,03/09/2023
+12,Renie Eldon,Bida,9234420368,15/04/2025
+13,Greg Banting,Czarnocin,9893948655,18/12/2024
+14,Anallise Camous,Blažovice,4797634939,11/11/2024
+15,Malissa Cowie,Arroyo Naranjo,5833901862,19/11/2024
+16,Maiga Hambling,Tsubame,9526455399,09/08/2023
+17,Alina Landman,Águas Belas,8838612670,16/07/2023
+18,Fallon Herrema,Hekinan,5382045491,15/09/2023
+19,Janella De Nisco,Salta,3145121337,02/02/2024
+20,Aridatha Jeffes,Thị Trấn Tà Lùng,4744205452,13/05/2024
+21,Devland Haking,Parung,7651564498,01/07/2024
+22,Hewett Itzkov,Guxi,9963089803,05/02/2025
+23,Augustina Mucklow,Dalu,9028797514,12/09/2023
+24,Ashton Korfmann,Wan’an,3989047218,29/03/2023
+25,Wally Lucchi,Mahikeng,2059918764,20/04/2023
+26,Rosalynd Anetts,Ruzayevka,7426034128,26/08/2024
+27,Martelle Dreinan,Ifon,3183096614,23/07/2024
+28,Kennie Roundtree,Muroto-misakicho,2416461864,22/08/2024
+29,Carline Tire,Jinjiang,3234752178,19/03/2025
+30,Ronnie Valti,Itu,8547459126,06/05/2024
+31,Eleanor Alenichicov,Lobatse,1823736576,20/02/2024
+32,Lennie Merwede,Hulei,8213786252,21/11/2024
+33,Rikki Smardon,San Isidro,1333463158,05/08/2024
+34,Corny McVane,Tepusteca,6313251224,24/09/2023
+35,Barris Prettjohn,Seminole,3179499075,14/04/2023
+36,Ina Weathey,Kabin Buri,8191301003,03/12/2024
+37,Lucretia Vitler,Hienghène,1321064746,03/11/2024
+38,Jacklyn Dionisio,Gadingrejo,4231485549,28/04/2025
+39,Lida Emmerson,Saint Petersburg,1515771199,31/07/2023
+40,Gillan Eglinton,Castellon De La Plana/Castello De La Pla,7657784702,03/01/2023
+41,Laverna Girardez,Logon,5841747903,04/11/2024
+42,Patty Grabeham,Heze,4426062774,17/02/2024
+43,Kial Rickardsson,Ljungbyholm,1167487274,08/09/2024
+44,Garvy Woffinden,Regente Feijó,8865414029,16/09/2024
+45,Pollyanna Setterthwait,Fengle,6737079932,10/07/2023
+46,Guillemette Sancraft,Ust’-Kalmanka,5736032796,25/05/2023
+47,Jenni Imore,Tsagaan-Owoo,5577165113,26/09/2023
+48,Mirelle Ebbles,Częstochowa,5489711329,26/01/2024
+49,Demetrius Farrimond,Kaskinen,9955181102,08/03/2024
+50,Vicky Swan,Brzeźnica,2905110703,20/09/2024
+51,Winfred Thunders,Cibunar,6441685804,20/02/2024
+52,Sander McElane,Runsonglaozhai,2963386096,25/01/2025
+53,Mikey Letten,Petrolina de Goiás,3476765727,24/01/2023
+54,Leon Harsum,Jianggao,4304075185,19/06/2023
+55,Ariella Worledge,Serawai,1204735029,31/03/2025
+56,Dannye Molnar,Tagkawayan Sabang,4296607547,03/07/2024
+57,Julee Aikin,Lijia,8245741832,23/09/2023
+58,Jarad Dorot,Guangyubao,1537369571,16/04/2024
+59,Lydie Gather,Petrovice u Karviné,9783472333,06/10/2024
+60,Sharai Ravenshaw,Pangkajene,5313213216,09/05/2023
+61,Ewen Barwick,Himaya,9437947400,19/11/2023
+62,Roscoe Hefforde,Suishan,5582131261,20/05/2024
+63,Cathi Belmont,Olympia,3607989362,23/03/2025
+64,Stevana Van Weedenburg,Rantau,3871133781,09/06/2024
+65,Ed Barracks,Chaihe,8308246870,05/09/2023
+66,Tyrus Rijkeseis,Sundbyberg,8252520701,10/02/2023
+67,Ignacius Dionsetto,Yingchengzi,1348393788,16/12/2024
+68,Jere Bernocchi,Suizhong,4299691554,06/02/2024
+69,Aube Blaby,Jaboticabal,6824666019,19/03/2024
+70,Arnold Palia,Józefów,7002629543,01/04/2025
+71,Farand Dunbobbin,Huangshi,6932934920,16/12/2023
+72,Luce Janeczek,Fuwayriţ,4425602987,10/04/2023
+73,Koren Pether,Gelemso,7796256783,28/05/2025
+74,Farand Kaser,Leshukonskoye,4421336143,13/08/2024
+75,Ninette Mardlin,Mitrofanovka,6124113346,07/01/2025
+76,Corenda Andraud,Iwo,7745119221,25/04/2023
+77,Bartolemo Barrick,Samayac,5866033834,19/02/2024
+78,Allister Ida,Tabon,1004500820,22/01/2024
+79,Remus Matskiv,Robertsport,1677038272,31/01/2025
+80,Pepillo Danilevich,Javalera,7982228183,11/04/2025
+81,Irma Philp,Borgo Maggiore,2575161718,17/03/2024
+82,Barbaraanne Folli,Nakatsugawa,1052631273,21/05/2023
+83,Willyt McCarlich,Dédougou,6835654877,25/07/2023
+84,Moina Baniard,San Jose,4082372996,16/06/2025
+85,Hussein Kent,Bagangan,1677976211,07/03/2025
+86,Bourke Danilyak,Xinxing,4519814156,14/10/2024
+87,Francois Blood,Kumlinge,3331417642,21/09/2023
+88,Carissa Von Brook,Plovdiv,3254983429,11/03/2025
+89,Adoree Boulder,Kosino,6584955846,01/06/2024
+90,Burtie Feild,Skogås,2501729299,22/10/2023
+91,Gertruda Charer,Zhuanshui,6802974757,07/12/2024
+92,Bobby Gleadhell,Cibungur,6347530449,07/06/2023
+93,Staford Ledwitch,Sere,9257266006,26/09/2023
+94,Auria Kach,Sanchang,2113006847,14/02/2025
+95,Bart Linner,Latacunga,9657149654,10/07/2024
+96,Ingaberg Syder,Marcara,5689932255,15/07/2023
+97,Stuart Plewman,Zapala,1456882382,01/01/2025
+98,Emmery Abrahmovici,Tuchengzi,8379571284,14/11/2024
+99,Heather Joss,Jazovo,1505624424,02/03/2023
+100,Fina Head,Seren,5313725656,05/11/2024

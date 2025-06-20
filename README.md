@@ -8,11 +8,11 @@ A complete SQL project focused on analyzing business data from a gold jewellery 
 
 This project helps answer key business questions for a jewellery brand using SQL queries. It includes:
 
-- Customer purchase behavior [customer_purchase_patterns.sql](/Gold%20Jewellery%20Business%20Insights/queries/customer_purchase_patterns.sql)
-- Top-selling products
-- Monthly revenue trends
-- Investment plan maturity
-- Redemption tracking
+- Customer purchase behavior ([customer_purchase_patterns.sql](/Gold%20Jewellery%20Business%20Insights/queries/customer_purchase_patterns.sql))
+- Top-selling products ([top_selling_jewellery.sql](/Gold%20Jewellery%20Business%20Insights/queries/top_selling_jewellery.sql))
+- Monthly revenue trends ([monthly_sales.sql](/Gold%20Jewellery%20Business%20Insights/queries/monthly_sales.sql))
+- Investment plan maturity ([investment_plan_payouts.sql](/Gold%20Jewellery%20Business%20Insights/queries/investment_plan_payouts.sql))
+- Redemption tracking ([redemption_report.sql](/Gold%20Jewellery%20Business%20Insights/queries/redemption_report.sql))
 
 All data is stored in PostgreSQL and queried using SQL. Data was generated using [Mockaroo](https://mockaroo.com/) for realistic simulation.
 

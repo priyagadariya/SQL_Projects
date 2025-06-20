@@ -24,12 +24,12 @@ All data is stored in PostgreSQL and queried using SQL. Data was generated using
 
 | Table Name       | Description |
 |------------------|-------------|
-| `customers`      | Customer details (name, city, contact, join date) |
-| `products`       | Jewellery products (name, category, pricing) |
-| `orders`         | Purchase orders placed by customers |
-| `investmentplans`| Fixed gold investment schemes |
-| `referrals`      | Referral program data (who referred whom) |
-| `redemptions`    | Redemption of gold or cash from investments |
+| customers      | Customer details (name, city, contact, join date) |
+| products       | Jewellery products (name, category, pricing) |
+| orders         | Purchase orders placed by customers |
+| investmentplans| Fixed gold investment schemes |
+| referrals      | Referral program data (who referred whom) |
+| redemptions    | Redemption of gold or cash from investments |
 
 ---
 
@@ -37,13 +37,13 @@ All data is stored in PostgreSQL and queried using SQL. Data was generated using
 
 | Query No. | Query Title | Description |
 |----------|-------------|-------------|
-| 1️⃣ | Monthly Sales Report | Revenue earned per month |
-| 2️⃣ | Top-Selling Products | Products with highest quantity sold |
-| 3️⃣ | Investment Plan Payouts | Maturity date of active investment plans |
-| 4️⃣ | Customer Purchase Patterns | First/last order date and total orders per customer |
-| 5️⃣ | Redemption Report | Total redemptions made by each customer |
+| 1️ | Monthly Sales Report | Revenue earned per month |
+| 2️ | Top-Selling Products | Products with highest quantity sold |
+| 3️ | Investment Plan Payouts | Maturity date of active investment plans |
+| 4 | Customer Purchase Patterns | First/last order date and total orders per customer |
+| 5️ | Redemption Report | Total redemptions made by each customer |
 
-> Each query is stored in the `/queries` folder with detailed SQL and comments.
+> Each query is stored in the [queries](/Gold%20Jewellery%20Business%20Insights/queries/) folder with detailed SQL and comments.
 
 ---
 

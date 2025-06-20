@@ -15,4 +15,4 @@ SELECT
 FROM
     investment_plans
 WHERE 
-    status = 'Active'
+    status = 'Active';
